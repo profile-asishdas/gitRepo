@@ -8,7 +8,11 @@ echo "Substract"
 echo "Division"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "master change"
+=======
+echo "Multipixtion"
+>>>>>>> mergeExample
 =======
 echo "Multipixtion"
 >>>>>>> mergeExample
