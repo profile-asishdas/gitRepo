@@ -2,3 +2,5 @@
 #
 echo "Addition"
 x=a+b
+
+echo "Substract"
