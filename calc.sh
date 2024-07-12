@@ -5,8 +5,4 @@ x=a+b
 
 echo "Substract"
 
-echo "Division"
-echo "master change"
-echo "Multipixtion"
-echo "Multipixtion"
-echo "Multipixtion"
+echo "Combined changes from both branches"
